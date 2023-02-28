@@ -42,15 +42,17 @@ div {
 
 .badalamenti {
   background-color: #006DA5;
-  padding-top: 0;
+  margin-top: 20px;
 }
 
 .lynch-badalamenti {
   background-color: #EA6880;
+  margin-top: 20px;
 }
 
 .musique {
   background-color: #006DA5;
+  margin-top: 20px;
 }
 
 .mulholland {
@@ -63,6 +65,7 @@ div {
 
 footer {
   background-color: #EA6880;
+  margin: 20px 0;
 }
 
 .legende {
