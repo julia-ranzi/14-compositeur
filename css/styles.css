@@ -37,6 +37,7 @@ div {
   flex-wrap: nowrap;
   justify-content: space-between;
   padding: 10px 4px;
+  background-color: #EA6880;
 }
 
 .element {
@@ -47,6 +48,7 @@ div {
 
 .badalamenti {
   background-color: #006DA5;
+  padding-top: 0;
 }
 
 .lynch-badalamenti {
@@ -69,7 +71,6 @@ footer {
   background-color: #EA6880;
 }
 
-nav {
-  background-color: #EA6880;
-  color: black;
+.legende {
+  font-size: 10px;
 }
