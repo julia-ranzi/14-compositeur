@@ -1,7 +1,6 @@
 body {
   max-width: 320px;
   margin: auto;
-  background-color: black;
 }
 
 img {
@@ -23,6 +22,7 @@ p {
 
 div {
   padding: 15px;
+  margin: 12px;
 }
 
 .container {
@@ -64,12 +64,19 @@ div {
   color: #fff;
 }
 
-footer {
+.footer {
   background-color: #EA6880;
-  margin: 20px 0;
+  margin: 12px;
   text-align: center;
+  font-size: 10px;
 }
 
 .legende {
   font-size: 10px;
+}
+
+header,
+main,
+footer {
+  background-color: black;
 }
