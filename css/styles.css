@@ -13,14 +13,8 @@ h1,
 h2,
 h3 {
   font-family: 'Big Shoulders Text', cursive;
-}
-
-h1 {
-  font-size: 36px;
-}
-
-h2 {
-  font-size: 36px;
+  font-weight: 900;
+  font-size: 32px;
 }
 
 p {
@@ -41,8 +35,8 @@ div {
 }
 
 .element {
-  color: black;
   font-family: 'Big Shoulders Text', cursive;
+  font-weight: 700;
   font-size: 14px;
 }
 
