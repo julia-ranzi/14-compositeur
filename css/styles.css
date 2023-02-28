@@ -31,6 +31,20 @@ div {
   padding: 15px;
 }
 
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  padding: 10px 4px;
+}
+
+.element {
+  color: black;
+  font-family: 'Big Shoulders Text', cursive;
+  font-size: 14px;
+}
+
 .badalamenti {
   background-color: #006DA5;
 }
