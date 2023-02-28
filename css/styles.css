@@ -9,6 +9,18 @@ img {
   max-width: 100%;
 }
 
+h1 {
+  font-family: 'Big Shoulders Text', cursive;
+}
+
+p {
+  font-family: 'Roboto', sans-serif;
+}
+
+div {
+  padding: 15px;
+}
+
 .badalamenti {
   background-color: #006DA5;
 }
