@@ -64,7 +64,7 @@ div {
   color: #fff;
 }
 
-.footer {
+.footer-div {
   background-color: #EA6880;
   margin: 12px;
   text-align: center;
@@ -79,4 +79,9 @@ header,
 main,
 footer {
   background-color: black;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
