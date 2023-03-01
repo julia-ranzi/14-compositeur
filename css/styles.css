@@ -41,6 +41,11 @@ div {
   font-size: 14px;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
 .badalamenti {
   background-color: #006DA5;
 }
@@ -62,17 +67,12 @@ div {
   color: #fff;
 }
 
-footer {
-  background-color: #EA6880;
-  text-align: center;
-  font-size: 10px;
-}
-
 .legende {
   font-size: 10px;
 }
 
-a {
-  text-decoration: none;
-  color: black;
+footer {
+  background-color: #EA6880;
+  text-align: center;
+  font-size: 10px;
 }
