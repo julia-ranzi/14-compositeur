@@ -18,11 +18,12 @@ h3 {
 
 p {
   font-family: 'Roboto', sans-serif;
+  color: black;
 }
 
 div {
   padding: 15px;
-  margin: 12px;
+  border: 10px solid black;
 }
 
 .container {
@@ -31,7 +32,6 @@ div {
   flex-wrap: nowrap;
   justify-content: space-between;
   padding: 11px 4px;
-  margin: 15px 0;
   background-color: #EA6880;
 }
 
@@ -43,42 +43,33 @@ div {
 
 .badalamenti {
   background-color: #006DA5;
-  margin-top: 15px;
 }
 
 .lynch-badalamenti {
   background-color: #EA6880;
-  margin-top: 15px;
 }
 
 .musique {
   background-color: #006DA5;
-  margin-top: 15px;
 }
 
 .mulholland {
   color: #fff;
+  background-color: black;
 }
 
 .citation {
   color: #fff;
 }
 
-.footer-div {
+footer {
   background-color: #EA6880;
-  margin: 12px;
   text-align: center;
   font-size: 10px;
 }
 
 .legende {
   font-size: 10px;
-}
-
-header,
-main,
-footer {
-  background-color: black;
 }
 
 a {
