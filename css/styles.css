@@ -13,7 +13,7 @@ h2,
 h3 {
   font-family: 'Big Shoulders Text', cursive;
   font-weight: 900;
-  font-size: 32px;
+  font-size: 30px;
 }
 
 p {
@@ -23,6 +23,7 @@ p {
 div {
   padding: 15px;
   border: 10px solid black;
+  border-top: none;
 }
 
 .container {
@@ -47,6 +48,7 @@ a {
 
 .badalamenti {
   background-color: #006DA5;
+  border-top: 10px solid black;
 }
 
 .lynch-badalamenti {
