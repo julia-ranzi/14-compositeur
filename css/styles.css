@@ -76,6 +76,12 @@ a {
   font-size: 10px;
 }
 
+iframe {
+  margin: auto;
+  width: 250px;
+  display: block;
+}
+
 footer {
   background-color: #EA6880;
   text-align: center;
